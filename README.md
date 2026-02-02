@@ -23,6 +23,8 @@ npm run dev
 ## Run Cypress Test 
 Implemenetd very basic cypress tests for the job acceptance/rejection flow
 ```bash
+npm run dev
 npm run cy:open
+or
 npm run cy:run
 ```
