@@ -2,8 +2,11 @@
 ```
 src/
   api/        // axios wrapper and worker API helpers
+  assets/     // Logo and any other images
   components/ // Global components
   context/    // WorkerContext holds the WorkerID
+  types/      // Holds typescript types
+  utils/      // Utility helper functions
   main.tsx    // app entry point
 cypress/
   e2e/        // end-to-end specs
